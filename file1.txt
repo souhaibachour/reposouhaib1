@@ -6,5 +6,5 @@ Modification d'une nouvelle ligne
 <<<<<<< HEAD
 >>>>>>> origin/master
 =======
-modfier par un autre developpeur
->>>>>>> origin/master
+modfier par moi 17h30
+>>>>>>> origin/master17h30
