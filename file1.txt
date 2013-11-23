@@ -1,2 +1,6 @@
 hello from file1 modification 2 40 mn
+<<<<<<< HEAD
 new ligne has been modified
+=======
+Modification d'une nouvelle ligne
+>>>>>>> origin/master
