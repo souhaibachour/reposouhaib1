@@ -4,7 +4,8 @@ new ligne has been modified
 =======
 Modification d'une nouvelle ligne
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/master
 =======
-modfier par moi 17h30
->>>>>>> origin/master17h30
+modfier par moi 17h30et  un autre developpeur second time 17h45
+
