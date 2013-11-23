@@ -3,4 +3,8 @@ hello from file1 modification 2 40 mn
 new ligne has been modified
 =======
 Modification d'une nouvelle ligne
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+modfier par un autre developpeur
 >>>>>>> origin/master
